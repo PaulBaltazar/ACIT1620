@@ -1,0 +1,59 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+p {
+    color: maroon;
+    font-family: sans-serif;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    color: grey;
+}
+
+h1 {
+    border-bottom: 2px solid black;
+}
+
+em {
+    font-family: serif;
+}
+
+p.greentea {
+    color: green;
+}
+
+p.blueberry {
+    color: blue;
+}
+
+p.cranberry {
+    color: maroon;
+}
+
+#unique {
+    font-size: 20px;
+    color: red;
+}
+
+div p {
+    color: purple;
+}
+
+ul > ul > li {
+    color: orange;
+}
+
+h1 + p {
+    color: teal;
+}
+
+input[type="text"] {
+    border: 2px solid blue;
+}
+
+a:hover {
+    color: red;
+}
