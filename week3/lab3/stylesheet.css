@@ -11,7 +11,6 @@ header {
     border-radius: 10px;
 }
 
-
 nav ul{
     text-align: justify;
     font-weight: bold;
@@ -40,12 +39,12 @@ ol {
     font-weight: bold;
 }
 
-a:hover {
-    color: #2d545e;
+nav ul a:visited {
+    color: #000000;
 }
 
-a:visited {
-    color: #000000;
+nav ul a:hover {
+    color: #2d545e;
 }
 
 h1 {
